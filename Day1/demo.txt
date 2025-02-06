@@ -1,1 +1,3 @@
 I have changed the document 
+today is day 1 so, I have learned the basic of programming languages 
+type of languages and java installation and architecture
