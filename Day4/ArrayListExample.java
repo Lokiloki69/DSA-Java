@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ArrayListExample {
+    //int min=Integer.MAX_VALUE;
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         // Syntax
